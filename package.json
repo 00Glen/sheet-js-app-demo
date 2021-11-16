@@ -1,0 +1,21 @@
+{
+  "name": "sheet-js-app",
+  "version": "1.0.0",
+  "description": "sheet js test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Glen",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^15.2.0"
+  },
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "x-data-spreadsheet": "^1.1.9",
+    "xlsx": "^0.17.3",
+    "xlsx-js-style": "^1.0.0"
+  }
+}
